@@ -1,1 +1,1 @@
-# cloning-test
+This is a test message in an empty repository
